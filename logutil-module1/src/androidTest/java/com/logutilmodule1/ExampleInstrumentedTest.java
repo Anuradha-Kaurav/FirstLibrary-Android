@@ -1,4 +1,4 @@
-package com.f.logutilmodule1;
+package com.logutilmodule1;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.f.logutilmodule1.test", appContext.getPackageName());
+        assertEquals("com.logutilmodule1.test", appContext.getPackageName());
     }
 }

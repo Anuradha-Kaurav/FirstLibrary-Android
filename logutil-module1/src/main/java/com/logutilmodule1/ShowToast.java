@@ -1,4 +1,4 @@
-package com.f.logutilmodule1;
+package com.logutilmodule1;
 
 import android.content.Context;
 import android.widget.Toast;
